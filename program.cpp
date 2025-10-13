@@ -6,7 +6,7 @@ using namespace std;
 // виконання завдання Integer8, boolean13, Math32
 int main()
 {
-    cout << "Integer" << endl; // Integer8
+    cout << "Integer8" << endl; // Integer8
 
     int twoDigit; // двозначне число
     int result; // кінцевий результат
